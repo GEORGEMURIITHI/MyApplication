@@ -18,6 +18,10 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void anotherFn() {
-        
+
+    }
+
+    private void thirdFn() {
+
     }
 }
